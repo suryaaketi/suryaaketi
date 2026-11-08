@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://suryaaketi.github.io/">
+    <img src="https://suryaaketi.github.io/surya-aketi-lettering.png" alt="Surya Aketi" width="520" />
+  </a>
+</p>
 
-<!--
-**suryaaketi/suryaaketi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Surya, a computer science senior at Penn State exploring machine learning, computer vision, and practical software.
 
-Here are some ideas to get you started:
+My work spans microscopy research, machine learning internships, LocalScribe (on-device dictation for macOS), and TaskBridge (an AI desktop assistant architecture).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Visit my portfolio →](https://suryaaketi.github.io/)**
+
+[Projects](https://suryaaketi.github.io/#work) · [Research](https://suryaaketi.github.io/#research) · [Experience](https://suryaaketi.github.io/#experience) · [Coursework](https://suryaaketi.github.io/#coursework)
